@@ -13,8 +13,6 @@ _ be the one
 + things
 
 # some things change
-> to change
+to change
 + change 1
 + change 2
-
-+ > to change something
